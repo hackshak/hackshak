@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hi, I'm Shakeeb ur Rehman</h1>
+<h3 align="center">🚀 Python Django Backend Developer | API Engineer | Software Engineer</h3>
 
-<!--
-**hackshak/hackshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blue" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+- 🔭 I’m currently working on **Taskify – A Task Management App**  
+- 🌱 Learning: **System Design, Docker, DSA (Python)**  
+- 💬 Ask me about **Django, DRF, REST APIs, Authentication, PostgreSQL**  
+- 🚀 Goal for 2025: Become a **Senior Backend Engineer**  
+- 📫 Reach me at: **msrehman139@gmail.com**
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,sqlite,git,github,html,css,bootstrap,tailwind,docker,postman,vscode,linux&theme=light" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+
+## 🏆 Achievements & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-Proficient-success?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Advanced-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-User-orange?style=for-the-badge&logo=linux" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="YOUR-PORTFOLIO"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
