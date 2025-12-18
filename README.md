@@ -10,7 +10,7 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **Taskify – A Task Management App**  
+- 🔭 I’m currently Providing Full Stack Services on Upwork**  
 - 🌱 Learning: **System Design, Docker, DSA (Python)**  
 - 💬 Ask me about **Django, DRF, REST APIs, Authentication, PostgreSQL**  
 - 🚀 Goal for 2025: Become a **Senior Backend Engineer**  
@@ -44,7 +44,6 @@
 <p align="left">
   <a href="YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="YOUR-PORTFOLIO"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
 </p>
 
 ---
