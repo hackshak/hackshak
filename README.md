@@ -1,51 +1,51 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Shakeeb ur Rehman</h1>
-<h3 align="center">🚀 Python Django Backend Developer | API Engineer | Software Engineer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blue" />
-</p>
+<h3 align="center">🛡️ Junior SOC Analyst | SOC Intern | Cyber Security Enthusiast</h3>
 
 ---
 
 ## 🔥 About Me
 
-- 🔭 I’m currently Providing Full Stack Services on Upwork**  
-- 🌱 Learning: **System Design, Docker, DSA (Python)**  
-- 💬 Ask me about **Django, DRF, REST APIs, Authentication, PostgreSQL**  
-- 🚀 Goal for 2025: Become a **Senior Backend Engineer**  
+- 🎯 Aspiring **Junior SOC Analyst / SOC Intern**
+- 🌱 Currently learning **Cyber Security Fundamentals, SIEM, Linux, Networking**
+- 🧠 Interested in **Threat Detection, Log Analysis, Incident Response**
+- 🛠️ Hands-on practice with **Splunk, Linux, Security Labs**
+- 🚀 Goal for 2025–26: Land my **first SOC Analyst role**
 - 📫 Reach me at: **msrehman139@gmail.com**
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 🧰 Security Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,sqlite,git,github,html,css,bootstrap,tailwind,docker,postman,vscode,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,vscode&theme=light" />
 </p>
+
+**Security Tools & Concepts**
+- SIEM: **Splunk (Beginner)**
+- Monitoring & Logs: **Syslog, Event Logs**
+- Networking Basics: **TCP/IP, DNS, HTTP/HTTPS**
+- Security Concepts: **CIA Triad, MITRE ATT&CK, OWASP Top 10**
+- Operating Systems: **Linux (Ubuntu), Windows Basics**
 
 ---
 
+## 🧪 Labs & Practice
 
-
-## 🏆 Achievements & Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Django-Proficient-success?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/REST%20APIs-Advanced-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-User-orange?style=for-the-badge&logo=linux" />
-</p>
+- 🧠 Practicing **SOC Analyst labs**
+- 🔍 Log analysis using **Splunk**
+- 🛡️ Basic **incident investigation & alert triage**
+- 🧪 Hands-on learning via **TryHackMe / Home Lab**
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="www.linkedin.com/in/shakeeb-ur-rehman-bb37402b6"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:msrehman139@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
 
-<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
+<h3 align="center">⭐ Learning every day to protect systems & data</h3>
