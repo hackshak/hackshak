@@ -1,51 +1,45 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm Shakeeb ur Rehman</h1>
-<h3 align="center">🛡️ Junior SOC Analyst | SOC Intern | Cyber Security Enthusiast</h3>
+<!-- PROFILE HEADER --> <h1 align="center">👋 Hi, I'm Shakeeb ur Rehman</h1> <h3 align="center">📱 Aspiring Mobile App Developer | Flutter & Dart Enthusiast</h3>
+🔥 About Me
 
----
+🎯 Aspiring Flutter Mobile Application Developer
 
-## 🔥 About Me
+🌱 Currently learning Dart, Flutter, State Management, Firebase
 
-- 🎯 Aspiring **Junior SOC Analyst / SOC Intern**
-- 🌱 Currently learning **Cyber Security Fundamentals, SIEM, Linux, Networking**
-- 🧠 Interested in **Threat Detection, Log Analysis, Incident Response**
-- 🛠️ Hands-on practice with **Splunk, Linux, Security Labs**
-- 🚀 Goal for 2025–26: Land my **first SOC Analyst role**
-- 📫 Reach me at: **msrehman139@gmail.com**
+🧠 Interested in Cross-Platform Mobile Apps, UI/UX Design, Backend Integration
 
----
+🛠️ Hands-on practice with Flutter Widgets, APIs, Local Storage
 
-## 🧰 Security Skills & Tools
+🚀 Goal for 2026: Build and launch my first mobile app
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,vscode&theme=light" />
-</p>
+📫 Reach me at: msrehman139@gmail.com
 
-**Security Tools & Concepts**
-- SIEM: **Splunk (Beginner)**
-- Monitoring & Logs: **Syslog, Event Logs**
-- Networking Basics: **TCP/IP, DNS, HTTP/HTTPS**
-- Security Concepts: **CIA Triad, MITRE ATT&CK, OWASP Top 10**
-- Operating Systems: **Linux (Ubuntu), Windows Basics**
+🧰 Tech Skills & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,vscode,firebase&theme=light" /> </p>
 
----
+Flutter & Mobile App Skills
 
-## 🧪 Labs & Practice
+Programming Language: Dart (Beginner → Intermediate)
 
-- 🧠 Practicing **SOC Analyst labs**
-- 🔍 Log analysis using **Splunk**
-- 🛡️ Basic **incident investigation & alert triage**
-- 🧪 Hands-on learning via **TryHackMe / Home Lab**
+Framework: Flutter (UI, Widgets, Navigation, Animations)
 
----
+State Management: Provider, Riverpod, Bloc (Basics)
 
-## 🔗 Connect With Me
+Backend & APIs: REST API Integration, Firebase Firestore & Auth
 
-<p align="left">
-  <a href="www.linkedin.com/in/shakeeb-ur-rehman-bb37402b6"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:msrehman139@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+Tools & IDEs: VS Code, Android Studio, Git & GitHub
 
----
+Design Concepts: Material Design, Responsive UI, Cross-Platform Apps
 
-<h3 align="center">⭐ Learning every day to protect systems & data</h3>
+🧪 Projects & Practice
+
+🧠 Practicing Flutter app development
+
+🔍 Building UI screens, forms, lists, navigation flows
+
+🛡️ Integrating Firebase for authentication & database
+
+🧪 Hands-on practice with API calls, JSON parsing, and local storage
+
+🔗 Connect With Me
+<p align="left"> <a href="www.linkedin.com/in/shakeeb-ur-rehman-bb37402b6"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="mailto:msrehman139@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> </p>
+<h3 align="center">⭐ Learning every day to build amazing mobile apps</h3>
