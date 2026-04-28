@@ -1,45 +1,58 @@
-<!-- PROFILE HEADER --> <h1 align="center">👋 Hi, I'm Shakeeb ur Rehman</h1> <h3 align="center">📱 Aspiring Mobile App Developer | Flutter & Dart Enthusiast</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hi, I'm Shakeeb ur Rehman</h1>
+<h3 align="center">🧠 Backend Developer | Python & Django Enthusiast</h3>
+
 🔥 About Me
 
-🎯 Aspiring Flutter Mobile Application Developer
+🎯 Aspiring Backend Engineer (Python / Django / REST APIs)
 
-🌱 Currently learning Dart, Flutter, State Management, Firebase
+🌱 Currently learning Python, Django, Django REST Framework, and System Design basics
 
-🧠 Interested in Cross-Platform Mobile Apps, UI/UX Design, Backend Integration
+🧠 Interested in scalable backend systems, APIs, databases, and clean architecture
 
-🛠️ Hands-on practice with Flutter Widgets, APIs, Local Storage
+🛠️ Hands-on practice with REST APIs, authentication systems, and database design
 
-🚀 Goal for 2026: Build and launch my first mobile app
+🚀 Goal for 2026: Build and deploy production-ready backend systems and APIs
 
 📫 Reach me at: msrehman139@gmail.com
 
 🧰 Tech Skills & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,vscode,firebase&theme=light" /> </p>
 
-Flutter & Mobile App Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,git,github,vscode,docker&theme=light" />
+</p>
 
-Programming Language: Dart (Beginner → Intermediate)
+⚙️ Backend Skills
 
-Framework: Flutter (UI, Widgets, Navigation, Animations)
+Programming Language: Python (Beginner → Intermediate)
 
-State Management: Provider, Riverpod, Bloc (Basics)
+Framework: Django & Django REST Framework (DRF)
 
-Backend & APIs: REST API Integration, Firebase Firestore & Auth
+Databases: PostgreSQL, MySQL (Basics → Intermediate)
 
-Tools & IDEs: VS Code, Android Studio, Git & GitHub
+API Development: RESTful APIs, Authentication (JWT, Session-based auth)
 
-Design Concepts: Material Design, Responsive UI, Cross-Platform Apps
+Caching & Performance: Redis (Basics)
+
+Tools & IDEs: VS Code, Git & GitHub, Docker (Basics)
+
+System Design Concepts: MVC, Layered Architecture, Scalability Basics
 
 🧪 Projects & Practice
 
-🧠 Practicing Flutter app development
+🧠 Building backend REST APIs using Django & DRF
 
-🔍 Building UI screens, forms, lists, navigation flows
+🔍 Designing database models and relationships
 
-🛡️ Integrating Firebase for authentication & database
+🛡️ Implementing authentication and permission systems
 
-🧪 Hands-on practice with API calls, JSON parsing, and local storage
+🧪 Working on CRUD systems, API integrations, and backend logic design
 
 🔗 Connect With Me
-<p align="left"> <a href="www.linkedin.com/in/shakeeb-ur-rehman-bb37402b6"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="mailto:msrehman139@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> </p>
-<h3 align="center">⭐ Learning every day to build amazing mobile apps</h3>
+
+<p align="left">
+  <a href="www.linkedin.com/in/shakeeb-ur-rehman-bb37402b6"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:msrehman139@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+<h3 align="center">⚙️ Building scalable backend systems one step at a time</h3>
