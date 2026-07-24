@@ -4,15 +4,15 @@
 
 🔥 About Me
 
-🎯 Aspiring Backend Engineer (Python / Django / REST APIs)
+🎯 Backend Engineer (Python / Django / REST APIs)
 
-🌱 Currently learning Python, Django, Django REST Framework, and System Design basics
+🌱 Python, Django, Django REST Framework, and System Design basics
 
 🧠 Interested in scalable backend systems, APIs, databases, and clean architecture
 
 🛠️ Hands-on practice with REST APIs, authentication systems, and database design
 
-🚀 Goal for 2026: Build and deploy production-ready backend systems and APIs
+🚀 Goal for 2026: Build production-ready backend systems and APIs
 
 📫 Reach me at: msrehman139@gmail.com
 
@@ -24,17 +24,17 @@
 
 ⚙️ Backend Skills
 
-Programming Language: Python (Beginner → Intermediate)
+Programming Language: Python 
 
 Framework: Django & Django REST Framework (DRF)
 
-Databases: PostgreSQL, MySQL (Basics → Intermediate)
+Databases: PostgreSQL, MySQL 
 
 API Development: RESTful APIs, Authentication (JWT, Session-based auth)
 
-Caching & Performance: Redis (Basics)
+Caching & Performance: Redis 
 
-Tools & IDEs: VS Code, Git & GitHub, Docker (Basics)
+Tools & IDEs: VS Code, Git & GitHub, Docker 
 
 System Design Concepts: MVC, Layered Architecture, Scalability Basics
 
